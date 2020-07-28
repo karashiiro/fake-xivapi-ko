@@ -1,0 +1,14 @@
+{
+  "name": "fake-xivapi-ko",
+  "version": "1.0.0",
+  "description": "A fake, locally-hosted XIVAPI serving data from RaWorkspace's datamining repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karashiiro",
+  "license": "MIT",
+  "dependencies": {
+    "ffxiv-datamining-github-api": "0.0.2"
+  }
+}
